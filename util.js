@@ -64,7 +64,7 @@ function isClicked(cardId)
 					getImage(100); //goes back to questionMark
 					canClick = true;
 					console.log("posttime");
-				}, 2500);
+				}, 1000);
 			}
         }	
     }
